@@ -1,0 +1,48 @@
+ body{
+     font:20px arial, sans-serif;
+ }
+ .logo{
+     padding-left: 10px;
+ }
+
+ #menu{
+     color: white;
+ }
+
+ .cor{
+     color: white;
+ }
+.navbar{
+    background-color: #5f9c9e;
+}
+
+.quem-somos{
+    color: white;
+    background-color: rgb(26, 121, 124);
+}
+.parc{
+    margin: 5px;
+}
+#parceiros{
+    color: black;
+    background-color: rgb(157, 234, 236);
+}
+
+.servicos{
+    background-color: rgb(203, 248, 250); 
+}
+
+.margin{
+   
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.text{
+    text-align: justify;
+}
+
+.rodape{
+    color: white;
+    background-color: black;
+}
